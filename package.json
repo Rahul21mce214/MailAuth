@@ -2,7 +2,7 @@
   "name": "mailauth",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "backend/index.js",
   "type": "module",
   "scripts": {
     "dev": " cross-env NODE_ENV=development nodemon backend/index.js",
